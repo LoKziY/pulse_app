@@ -1,0 +1,9 @@
+{
+    "name": "Pulse",
+    "short_name": "Pusle",
+    "description": "Messanger",
+    "start_url": "http://localhost:3000/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
